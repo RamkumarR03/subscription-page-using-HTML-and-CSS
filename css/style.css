@@ -1,0 +1,46 @@
+.container{
+    border: 1px solid black;
+    margin:80px
+
+}
+h1{
+    padding: 29px 51px;
+    
+}
+.c2{
+    border: 1px solid;
+    margin: 93px;
+    padding: 32px 38px; 
+    background-color: cadetblue;
+}
+form{
+    margin: 40px;
+}
+  .c3 input{
+    width: 1007px;
+     height: 41px;
+     padding: 0px 50px;
+}
+.c5 input{
+    width: 1007px;
+     height: 41px;
+     padding: 0px 49px;
+}
+.c3{
+
+    padding: 0px 50px;
+}
+.c5{
+    padding: 0px 50px;
+}
+button{
+
+    padding: 0PX;
+    MARGIN: 1px 53px;
+    width: 1100px;
+    height: 40px;
+    background-color: green;
+}
+.c4{
+    padding: 0px 50px;
+}
